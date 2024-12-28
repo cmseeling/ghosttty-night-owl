@@ -1,4 +1,4 @@
-### ghosttty-night-owl
+### ghostty-night-owl
 
 Theme adapted from https://github.com/pbomb/hyper-night-owl
 
